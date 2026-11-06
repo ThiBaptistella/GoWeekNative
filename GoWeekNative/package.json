@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "16.2.0",
-    "react-native": "0.52.2",
+    "react-native": "0.88.1",
     "react-native-xcode-packager": "^0.1.0",
     "react-packager": "0.0.0"
   },
